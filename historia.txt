@@ -1,0 +1,4 @@
+Hola este es un archivo de texto plano para realizar pruebas con GIT
+Mi nombre es Claudio Chavarria
+Soy Nicaraguense
+Tengo 23 años de edad
