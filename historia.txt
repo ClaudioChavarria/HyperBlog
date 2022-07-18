@@ -2,3 +2,5 @@ Hola este es un archivo de texto plano para realizar pruebas con GIT
 Mi nombre es Claudio de Jesus Chavarria Altamirano
 Nací en Nicaragua, Soy Nicaraguense
 Tengo 23 años de edad
+Estudié ingeniería industrial en la UNI RUPAP
+Actualmente soy Trainee Operativo en WALMART MÉXICO Y CENTROAMÉRICA
